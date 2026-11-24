@@ -1,0 +1,7 @@
+/out/
+*.class
+
+# Local datasets and project report
+/*.csv
+!/sampledataset.csv
+/DataPulse_Project_Report.docx
